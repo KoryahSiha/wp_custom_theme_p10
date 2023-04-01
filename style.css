@@ -1,0 +1,32 @@
+/*
+Theme Name: WP Custom Theme
+Theme URI: https://github.com/KoryahSiha/wp-custom-theme/
+Author: Koryah Siha
+Author URI: https://example.com/
+Description: Un thème wordpress from scratch
+Tags: vitrine, clair
+Version: 1.0.0
+Requires at least: 6.1.1
+Tested up to: 5.7.2
+Requires PHP: 8.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+body {
+    background-color: rgb(209, 255, 209);
+}
+
+.bandeau img {
+    object-fit: cover;
+    object-position: 50% 35%;
+    width: 100%;
+    height: 300px;
+}
+
+.carousel img {
+    object-fit: contain;
+    width: 40%;
+    height: 600px;
+    padding: 10px;
+}
