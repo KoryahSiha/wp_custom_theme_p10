@@ -1,5 +1,5 @@
 # -wp-custom-theme-p10-
-Ce repo est un exercice afin de maîtriser la création d'un thème Wordpress de toute pièce.
+Création d'un thème Wordpress de toute pièce.
 
 ## Prérequis
 - MariaDB
